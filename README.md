@@ -1,4 +1,3 @@
-````markdown
 # DataCeva Sidebar Navigation
 
 This project is a React application with a navigation sidebar, built using `react-pro-sidebar` and `react-router-dom`.
@@ -19,6 +18,7 @@ This project is a React application with a navigation sidebar, built using `reac
 ```bash
 git clone <repository-url>
 ```
+
 ````
 
 2. Install the dependencies:
@@ -26,7 +26,7 @@ git clone <repository-url>
 ```bash
 cd <repository-name>
 npm install
-```
+````
 
 3. Start the development server:
 
@@ -54,4 +54,8 @@ This project is open source, under the [MIT License](https://opensource.org/lice
 ```
 
 Please replace `<repository-url>` and `<repository-name>` with your actual repository URL and name. Adjust the content as needed to fit your project's specifics.
+```
+
+```
+
 ```
