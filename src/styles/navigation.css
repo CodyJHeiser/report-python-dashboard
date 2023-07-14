@@ -1,0 +1,38 @@
+.active {
+  color: var(--primary-color);
+}
+
+.fontawesome-custom {
+  color: var(--dark-color);
+}
+
+.custom-sidebar-content {
+  width: 100%;
+  text-align: center;
+  margin: 25px 0px;
+}
+
+.custom-sidebar-header {
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 20px 0px;
+  margin: 0;
+}
+
+.custom-container {
+  display: flex;
+  min-height: 100vh;
+}
+
+.custom-sidebar {
+  flex: 0;
+  min-height: 100vh;
+  background-color: var(--lighter-color);
+}
+
+.custom-content {
+  flex: 1 1 auto;
+  overflow: auto;
+  padding: 1rem;
+}

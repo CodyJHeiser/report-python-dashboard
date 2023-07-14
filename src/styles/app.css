@@ -1,0 +1,17 @@
+/* Define the color variables in the :root selector */
+:root {
+  --primary-color: #175bda;
+  --secondary-color: #6c757d;
+  --success-color: #28a745;
+  --danger-color: #dc3545;
+  --warning-color: #ffc107;
+  --info-color: #17a2b8;
+  --light-color: #f8f9fa;
+  --lighter-color: #fafafa;
+  --dark-color: #2c3e50;
+}
+
+.App {
+  color: var(--dark-color);
+  min-height: 100vh;
+}
